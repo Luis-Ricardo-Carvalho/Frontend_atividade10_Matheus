@@ -1,0 +1,6 @@
+{
+  "name": "PetroClass - Classificador Geoquímico de Rochas",
+  "description": "Dashboard para predição e classificação do tipo de rocha ígnea com base na composição percentual de óxidos geoquímicos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
